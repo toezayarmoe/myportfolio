@@ -48,7 +48,7 @@ export default function Home() {
               {
                 title: 'A Bank',
                 date: '(09/2023 – 02/2025)',
-                details: 'Web, Mobile, Network, API, Active Directory PenTesting; Grafana Dashboards; Dark Web Monitoring; SonarQube CI/CD; Vulnerability Management; PCI-DSS.'
+                details: 'Web, Mobile, Network, API, Active Directory PenTesting; Grafana Dashboards; Dark Web Monitoring; SonarQube CI/CD; Vulnerability Management'
               },
               {
                 title: 'Hapeye Co. Ltd',
