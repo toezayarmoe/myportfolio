@@ -46,9 +46,9 @@ export default function Home() {
                 details: 'Web, Mobile, Network, API, Active Directory PenTesting; Grafana Dashboards; Dark Web Monitoring; SonarQube CI/CD; Vulnerability Management; PCI-DSS.'
               },
               {
-                title: 'Ayarwaddy Farmer Dev Bank',
+                title: 'A Bank',
                 date: '(09/2023 – 02/2025)',
-                details: 'Similar pentesting roles, Grafana, TrendMicro–Wazuh, SonarQube CI/CD.'
+                details: 'Web, Mobile, Network, API, Active Directory PenTesting; Grafana Dashboards; Dark Web Monitoring; SonarQube CI/CD; Vulnerability Management; PCI-DSS.'
               },
               {
                 title: 'Hapeye Co. Ltd',
