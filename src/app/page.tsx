@@ -107,7 +107,7 @@ export default function Home() {
                         Web Application Penetration Testing
                       </li>
                       <li className="text-slate-300 text-sm before:content-['>'] before:text-cyan-400 before:mr-2">
-                        Mobile Application Penetration Testing
+                        Mobile Application Testing
                       </li>
                       <li className="text-slate-300 text-sm before:content-['>'] before:text-cyan-400 before:mr-2">
                         Network Penetration Testing
